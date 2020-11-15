@@ -1,0 +1,11 @@
+The general requirements are as follows.
+
+1) numpy
+2) scikit-learn
+3) scipy
+4) nltk
+
+The library requirements specific to some methods are:
+
+1) keras with TensorFlow backend for Logistic Regression, MLP, RNN (LSTM), and CNN.
+2) xgboost for XGBoost.
