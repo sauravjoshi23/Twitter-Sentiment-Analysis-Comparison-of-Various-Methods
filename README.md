@@ -13,3 +13,5 @@ Dataset consisted of tweets with sentiments such as positive, negative, neutral 
 <b>XGBoost : </b>It shows accuracy on 10% validation dataset.<br>
 <b>SVM : </b>It shows accuracy on 10% validation dataset.<br>
 <b>Multi-Layer Perceptron : </b>It shows accuracy on 10% validation dataset.<br>
+<b>LSTM : </b>It shows accuracy on 10% validation dataset.<br>
+<b>CNN : </b>It shows accuracy on 10% validation dataset.<br>
